@@ -1,0 +1,6 @@
+- 👋 Oi, Eu sou a @julianaserapiaolouzada
+- 👀 Tenho interesse em T.I.
+- 🌱 Estou aprendendo Javascript no momento
+- 💞️ Estou interessada em obter conhecimento na área de desenvolvimento de sistemas
+- 📫 Meu e-mail é julianaserapiaolouzada@gmail.com
+- ⚡ Uma curiosidade minha é que eu adoro jogar ARK no meu Xbox
